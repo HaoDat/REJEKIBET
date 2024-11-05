@@ -4,7 +4,8 @@ Upload google verification HTML file
 google-site-verification: google6467bf9c965521d2.html
 ## Certifications
 [View Google Certification](google6467bf9c965521d2.html)
-Grafis dalam REJEKIBET APK
+git add googlegoogle6467bf9c965521d2.html
+
 
 DOWNLOAD: [REJEKIBET APK](https://dogas.info/id/rejekibet/)
 
