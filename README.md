@@ -5,13 +5,13 @@ google-site-verification: google6467bf9c965521d2.html
 
 ## Certifications
 [View Google Certification](google6467bf9c965521d2.html)
-git add googlegoogle6467bf9c965521d2.html
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
-git status
-git commit -m "Upload google verification HTML file"
-git push origin main
-Upload google verification HTML file
+## git add googlegoogle6467bf9c965521d2.html
+## git clone https://github.com/your-username/your-repository.git
+## cd your-repository
+## git status
+## git commit -m "Upload google verification HTML file"
+## git push origin main
+## Upload google verification HTML file
 
 
 
