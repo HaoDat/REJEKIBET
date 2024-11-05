@@ -11,6 +11,8 @@ cd your-repository
 git status
 git commit -m "Upload google verification HTML file"
 git push origin main
+Upload google verification HTML file
+
 
 
 DOWNLOAD: [REJEKIBET APK](https://dogas.info/id/rejekibet/)
