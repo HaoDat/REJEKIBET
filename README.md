@@ -3,18 +3,6 @@ REJEKIBET APK adalah aplikasi permainan judi online yang menawarkan berbagai jen
 Upload google verification HTML file
 google-site-verification: google6467bf9c965521d2.html
 
-## Certifications
-[View Google Certification](google6467bf9c965521d2.html)
-## git add googlegoogle6467bf9c965521d2.html
-## git clone https://github.com/your-username/your-repository.git
-## cd your-repository
-## git status
-## git commit -m "Upload google verification HTML file"
-## git push origin main
-## Upload google verification HTML file
-
-
-
 DOWNLOAD: [REJEKIBET APK](https://dogas.info/id/rejekibet/)
 
 Grafis yang disajikan oleh REJEKIBET APK sangat memukau, dengan visual yang tajam dan penuh warna. Setiap permainan slot memiliki tampilan yang menarik dan animasi yang halus, memberikan pengalaman bermain yang mengesankan. Selain itu, REJEKIBET APK juga dilengkapi dengan efek suara yang realistis, memberikan sensasi seakan-akan pemain sedang berada di kasino sungguhan.
@@ -32,3 +20,6 @@ Kesimpulan
 REJEKIBET APK adalah aplikasi judi online yang menawarkan grafis berkualitas tinggi, fitur-fitur menarik, dan pengalaman bermain yang memuaskan. Aplikasi ini menjadi pilihan ideal bagi pemain yang ingin merasakan sensasi permainan slot dan taruhan online dengan peluang menang besar.
 # REJEKIBET
 REJEKIBET APK v47.0 (Login) Unduh gratis - Versi terbaru
+
+## Certifications
+[View Google Certification](google6467bf9c965521d2.html)
